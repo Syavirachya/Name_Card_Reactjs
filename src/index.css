@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: "Kumbh Sans", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 8px;
+  align-items: center;
+	color: white;
+	overflow: hidden;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+* {
+	box-sizing: border-box;
+  background-color: white;
+  border-top-left-radius: 14px;
+	border-top-right-radius: 14px;
+  
+}
